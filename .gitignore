@@ -1,0 +1,14 @@
+# Data (regenerate it, don't commit it)
+data/
+*.parquet
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# OS/editor
+.DS_Store
+.vscode/
